@@ -1,0 +1,2 @@
+# my-bucket
+scoop bucket
