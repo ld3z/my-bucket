@@ -14,7 +14,7 @@
 		"github": "https://github.com/Floogen/Stardrop"
 	},
 	"autoupdate": {
-		"url": "https://github.com/Floogen/Stardrop/releases/download/Stardrop$version/Stardrop-win-x64.zip",
+		"url": "https://github.com/Floogen/Stardrop/releases/download/$version/Stardrop-win-x64.zip",
 		"hash": {
 			"url": "$baseurl/hashes.txt",
 			"regex": "$basename\\s+$sha256"
