@@ -12,6 +12,6 @@
 	"homepage": "https://github.com/Floogen/Stardrop",
 	"checkver": "github",
 	"autoupdate": {
-		"url": "https://github.com/Floogen/Stardrop/releases/v1.0.0$preReleaseVersion/download/Stardrop-win-x64.zip"
+		"url": "https://github.com/Floogen/Stardrop/releases/v$Version/download/Stardrop-win-x64.zip"
 	}
 }
