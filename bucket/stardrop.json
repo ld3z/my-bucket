@@ -8,13 +8,5 @@
 			"Stardrop.exe",
 			"Stardrop"
 		]
-	],
-
-	"checkver": {
-		"github": "https://github.com/Floogen/Stardrop"
-	},
-	"hash": {
-		"url": "$baseurl/hashes.txt",
-		"regex": "$basename\\s+$sha256"
-	}
+	]
 }
