@@ -8,11 +8,9 @@
             "Stardrop.exe",
             "Stardrop"
         ]
-    ]
-
+    ],
+	
 	"checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/Floogen/Stardrop/releases/download/$version/Stardrop-win-x64.zip",
-
-
+        "url": "https://github.com/Floogen/Stardrop/releases/download/$version/Stardrop-win-x64.zip"
 }
