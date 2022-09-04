@@ -9,5 +9,6 @@
 			"Stardrop"
 		]
 	],
-	"homepage": "https://github.com/Floogen/Stardrop"
+	"homepage": "https://github.com/Floogen/Stardrop",
+	"checkver": "github"
 }
