@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "url": "https://github.com/Floogen/Stardrop/releases/latest",
+  "url": "https://github.com/Floogen/Stardrop/releases/latest/Stardrop-win-x64.zip",
   "extract_dir": "stardrop",
   "bin": "Stardrop.exe"
 }
