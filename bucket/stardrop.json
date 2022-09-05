@@ -12,6 +12,7 @@
 	"homepage": "https://github.com/Floogen/Stardrop",
 	"checkver": "github",
 	"autoupdate": {
-		"url": "https://github.com/Floogen/Stardrop/releases/v$matchHead$matchTail/download/Stardrop-win-x64.zip"
+		"url": "https://github.com/Floogen/Stardrop/releases/download/Stardrop-win-x64.zip",
+		"regex": "/(Stardrop)\sv(?<version>[\d.]+)(?<ending>[\w-beta\d.]+)/g"
 	}
 }
