@@ -1,6 +1,6 @@
 {
   "version": "v1.0.0-beta.34",
-  "url": "https://github.com/Floogen/Stardrop/releases/download/v1.0.0-beta.34/Stardrop-win-x64.zip",
+  "url": "https://github.com/Floogen/Stardrop/releases/latest/download/Stardrop-win-x64.zip",
   "extract_dir": "stardrop",
   "bin": "Stardrop.exe",
   "shortcuts": [
@@ -10,8 +10,9 @@
     ]
   ],
   "homepage": "https://github.com/Floogen/Stardrop",
-  "checkver": "github",
-  "autoupdate": {
-    "url": "https://github.com/Floogen/Stardrop/releases/download/v$version-$preReleaseVersion"
-  }
+  "checkver": {
+    "url": "https://github.com/Floogen/Stardrop/releases/",
+    "re": "^Stardrop\\sv\\d\\.\\d\\.\\d\\-$"
+  },
+  "autoupdate": "https://github.com/Floogen/Stardrop/releases/$preReleaseVersion"
 }
