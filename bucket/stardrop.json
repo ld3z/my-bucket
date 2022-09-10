@@ -11,7 +11,7 @@
   ],
   "homepage": "https://github.com/Floogen/Stardrop",
   "checkver": {
-    "url": "https://github.com/Floogen/Stardrop/releases/",
+    "url": "https://github.com/Floogen/Stardrop/releases",
     "re": "^Stardrop\\sv\\d\\.\\d\\.\\d\\-$"
   },
   "autoupdate": "https://github.com/Floogen/Stardrop/releases/$preReleaseVersion"
