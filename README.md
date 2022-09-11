@@ -8,3 +8,5 @@ Then see what programs I offer in this bucket by checking out the list below:
 
  - Stardrop: https://github.com/Floogen/Stardrop
  - Houdoku: https://github.com/xgi/houdoku
+
+Then install such programs using `scoop install <manifest name>`.
