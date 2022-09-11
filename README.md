@@ -11,4 +11,4 @@ Then see what programs I offer in this bucket by checking out the list below:
 
 Then install any programs using `scoop install <manifest name>`
 
-If you would like me to try to add to this list please create a new issue with a "Package add" tag to it and please add the url to your package that you would like added. Thank you!
+If you would like me to try to add to this list please create a new issue with a "Enhancement" tag to it and please add the url to your package that you would like added. Thank you!
