@@ -7,7 +7,8 @@
     "hash": "6aaf111e5b25de2e6c2977760efb7ea155a5a50ae225690a2b4cf86d09a18f91",
     "bin": "SteamDepotDownloaderGUI.exe",
     "checkver": {
-        "github": "https://github.com/mmvanheusden/SteamDepotDownloaderGUI"
+        "github": "mmvanheusden/SteamDepotDownloaderGUI",
+        "regex": "v?([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://github.com/mmvanheusden/SteamDepotDownloaderGUI/releases/download/v$version/SteamDepotDownloaderGUI.zip"
